@@ -1,6 +1,6 @@
 # ARTificial MTL - 6-7 décembre 2018 - Montréal
 
-**Site web en construction**
+*Dernière mise-à-jour: 1er octobre 2018*
 
 ## Quoi
 
@@ -14,6 +14,7 @@ La première édition de l'exposition d'arts visuels ARTificial Mtl se tiendra l
 
 *Date limite de soumission:* 12 novembre 2018.
 
+
 ## Partenaires d'exposition
 
 Vous êtes un organisme ou une entreprise oeuvrant dans le milieu culturel, artistique ou technologique et vous désirez soutenir notre évènement ? Écrivez-nous à artificialmtl@gmail.com.
@@ -22,5 +23,4 @@ Vous êtes un organisme ou une entreprise oeuvrant dans le milieu culturel, arti
 
 Pour nous rejoindre: artificialmtl@gmail.com
 
-*Dernière mise-à-jour: 30 septembre 2018*
 
