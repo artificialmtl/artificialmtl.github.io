@@ -1,6 +1,6 @@
 # ARTificial MTL - 6-7 décembre 2018 - Montréal
 
-*Dernière mise-à-jour: 1er octobre 2018*
+*Dernière mise-à-jour: 2 octobre 2018*
 
 ## Quoi
 
