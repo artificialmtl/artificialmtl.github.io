@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="twitter:image" content="artificial_logo.png">
+
+
+  <title>ARTificial, exposition d'arts visuels — Art et IA — Montréal, 6 et 7 décembre 2018</title>
+  <link rel="canonical" href="http://artificial.st/" />
+  <link rel="stylesheet" href="/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+</head>
+
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">
+    <h3><a href="/en/">ENGLISH VERSION</a></h3>
+
+    <h2 id="quoi">Au sujet de Sarah Friend</h2>
+
+    <p>
+
+Tom White a étudier les graphiques par ordinateur et le design au MIT Aesthetics and Computation group, sous le professeur John Maeda. À MIT, il était l'un des auteurs de la bibliothèque informatique ACU, qui a influencé le design du <i>framework</i> Processing avant d'être appelée à servir de base à la bibliothèque OpenFrameworks. Tom a pu rendre public son art computationnel à plusieurs endroits, notamment SIGGRAPH, Ars Electronica, Cooper Union, MoMA, National Taiwan Museum of Fine Arts, Nature Morte Gallery, et NIPS (maintenant NeurIPS). Ses plus récents travaux explorent la perception par ordinateur et ce, par la création de sérigraphies abstraites qui sont spécialement conçues pour être significatives pour des algorithmes de vision par ordinateur modernes. 
+Plus d'informations sur les plus récents travaux de Tom sont disponibles par le biais d'essais récents publiés en ligne, <a href = "https://medium.com/@tom_25234/synthetic-abstractions-8f0e8f69f390">Synthetic Abstractions (Abstractions Synthétiques)</a> et Perception Engines (Machines à perception).
+</p>
+
+  </div>
+</body>
+
+</html>
