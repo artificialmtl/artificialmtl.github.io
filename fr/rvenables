@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="twitter:image" content="artificial_logo.png">
+
+
+  <title>ARTificial, exposition d'arts visuels — Art et IA — Montréal, 6 et 7 décembre 2018</title>
+  <link rel="canonical" href="http://artificial.st/" />
+  <link rel="stylesheet" href="/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+</head>
+
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">
+    <h3><a href="/en/">ENGLISH VERSION</a></h3>
+
+    <h2 id="quoi">Au sujet de Sarah Friend</h2>
+
+    <p>
+Rob est un développeur de logiciel originaire de l'Afrique du Sud ainsi que le président de Upkoi, une entreprise d'apprentissage machine. 
+Dans ses propres mots: "Je suis principalement autodidacte et je n'ai pas de parcours traditionnel en arts. J'ai créé plus de cinquante petits services, sites web et produits en partant de zéro durant les vingt dernières années, ce qui m'a permis de développer une boîte à outils de compétences en développement logiciel, en design et en science de la donnée.
+Une journée typique de ma vie consiste à aider des entreprises et des organismes à but non lucratif à tirer profit de technologies d'avant-garde. Je crois fermement que l'apprentissage machine et la réalité augmentée joueront des rôles essentiels dans notre futur, et je ré-investis une bonne partie de mes temps libres dans ces domaines.
+Mis-à-part une divergence inattendue - comme une révolution néo-luddite - je crois que les machines vont pouvoir augmenter puis surpasser les humains dans la plupart des domaines, incluant la création d'oeuvres d'art appréciées par les êtres humains. Il est fort possible que nous trouvions plusieurs "AI winters" (terme désignant les aléas du financement de la recherche en AI) sur le chemin.
+
+L'apprentissage machine est le domaine le plus intéressant que je puisse imaginer et je suis enthousiaste à l'idée de voir ce que nous réserve le futur.
+"
+</p>
+
+  </div>
+</body>
+
+</html>
